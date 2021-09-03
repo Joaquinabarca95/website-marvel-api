@@ -2,6 +2,6 @@
 vscode:
   extensions:
     - dsznajder.es7-react-js-snippets
-    - abusaidm.html-snippets
     - zhuangtongfa.material-theme
     - hookyqr.beautify
+    - abusaidm.html-snippets
